@@ -1,7 +1,10 @@
 ![logo](https://github.com/awsown/awsown/blob/main/skills-for-front-end-back-end-developer-wamzen.jpg)
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 <h1 align="center">HI 👋, I'M ARYAN CHATURVADI</h1>
 <h3 align="center">A PASSIONATE FULL-STACK WEB DEVELOPER FROM WORLD! 😄</h3>
+
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wamzen&label=Profile%20views&color=0e75b6&style=flat" alt="wamzen" /> </p>
 
