@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/aryanchaturvadi](https://www.linkedin.com/in/aryanchaturvadi)
 
-- 💬 Ask me about **BEING YOUR IDEAS TO LIFE**
+- 💬 Ask me about **Have your own ideas for life**
 
 - 📫 How to reach me **auceamhelp@gmail.com**
 
