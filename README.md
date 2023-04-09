@@ -1,7 +1,10 @@
+![logo](https://camo.githubusercontent.com/5e3babfce4609dcd669a8f2a6d37b47c85486729942c57c5afbfc715f0b5dff7/68747470733a2f2f7777772e6469676974616c736f6c7574696f6e73657276696365732e636f6d2f696d672f73657276696365732f776562253230646576656c6f706d656e742e676966)
+
+
 <h1 align="center">HI 👋, I'M ARYAN CHATURVADI</h1>
 <h3 align="center">A PASSIONATE FULL-STACK WEB DEVELOPER FROM WORLD! 😄</h3>
 
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+<img align="right" alt="coding" width="400" src="https://icons-for-free.com/download-icon-Coding-1320568096072194118_512.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wamzen&label=Profile%20views&color=0e75b6&style=flat" alt="wamzen" /> </p>
 
